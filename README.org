@@ -1,0 +1,10 @@
+* css-lite
+
+a css grammar for lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/paddymul/css-lite.git   |
+| commit  | 3a27bdb  |
+| systems | css-lite |
+|---------+-------------------------------------------|
+
